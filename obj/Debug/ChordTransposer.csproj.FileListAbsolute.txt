@@ -1,0 +1,10 @@
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\bin\Debug\ChordTransposer.exe.config
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\bin\Debug\ChordTransposer.exe
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\bin\Debug\ChordTransposer.pdb
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\obj\Debug\ChordTransposer.csprojAssemblyReference.cache
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\obj\Debug\ChordTransposer.exe
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\obj\Debug\ChordTransposer.pdb
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\bin\Debug\ChordTransposer.exe.manifest
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\bin\Debug\ChordTransposer.application
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\obj\Debug\ChordTransposer.exe.manifest
+D:\Checkouts\Repositorios Pessoais\C-Sharp\ChordTransposer\ChordTransposer\obj\Debug\ChordTransposer.application
